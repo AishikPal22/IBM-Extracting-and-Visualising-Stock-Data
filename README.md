@@ -8,16 +8,25 @@ Extracting essential data from a dataset and displaying it is a necessary part o
 
 # Table of Contents:
 
-Using yfinance to Extract Stock Info
-Using yfinance to Extract Historical Share Price Data
-Using yfinance to Extract Historical Dividends Data
-Using yfinance to Extract Stock Data
-Using Webscraping to Extract Tesla Revenue Data
-Using yfinance to Extract Stock Data
-Using Webscraping to Extract GME Revenue Data
-Defining a Function that Makes a Graph
-Plotting Tesla Stock Graph
-Plotting GameStop Stock Graph
+#### Using yfinance to Extract Stock Info
+
+#### Using yfinance to Extract Historical Share Price Data
+
+#### Using yfinance to Extract Historical Dividends Data
+
+#### Using yfinance to Extract Stock Data
+
+#### Using Webscraping to Extract Tesla Revenue Data
+
+#### Using yfinance to Extract Stock Data
+
+#### Using Webscraping to Extract GME Revenue Data
+
+#### Defining a Function that Makes a Graph
+
+#### Plotting Tesla Stock Graph
+
+#### Plotting GameStop Stock Graph
 
 This course is part of the 'IBM Data Science Professional Certificate'
 
